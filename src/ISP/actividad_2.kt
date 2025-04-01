@@ -34,5 +34,5 @@ fun main() {
     val gerente = Gerente()
     gerente.Administrar()
     val auditorio= Auditorio()
-    auditorio.auditar
+    auditorio.Auditar()
 }
